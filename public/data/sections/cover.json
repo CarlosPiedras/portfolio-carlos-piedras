@@ -119,7 +119,7 @@
                 },
                 {
                     "id": 2,
-                    "label": "Sonia Jimenez",
+                    "label": "Sonia Jiménez",
                     "link": {"href": "", "tooltipString": ""},
                     "img": "images/pictures/testimonial-person-female-2.png",
                     "faIcon": "",
@@ -141,7 +141,7 @@
                 },
                 {
                     "id": 3,
-                    "label": "Dani Rueda",
+                    "label": "Daniel Rueda",
                     "link": {"href": "", "tooltipString": ""},
                     "img": "images/pictures/testimonial-person-male-1.png",
                     "faIcon": "",
@@ -158,6 +158,28 @@
                         "fr": {
                             "title": "PDG de [[NOVALABS]]",
                             "text": "Carlos a livré {{exactement ce dont nous avions besoin}}. {{Travail professionnel}} et bonne communication tout au long du projet."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "label": "Paco Camarasa",
+                    "link": {"href": "", "tooltipString": ""},
+                    "img": "images/pictures/testimonial-person-male-3.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "President at [[ACEDE]]",
+                            "text": "Carlos set up our entire office {{from scratch}}: computers, networks, and cloud migration. {{Complete service}} and efficient."
+                        },
+                        "es": {
+                            "title": "Presidente en [[ACEDE]]",
+                            "text": "Carlos configuró toda nuestra oficina {{desde cero}}: equipos, redes y migración a la nube. {{Servicio completo}} y eficiente."
+                        },
+                        "fr": {
+                            "title": "Président chez [[ACEDE]]",
+                            "text": "Carlos a configuré tout notre bureau {{à partir de zéro}} : ordinateurs, réseaux et migration vers le cloud. {{Service complet}} et efficace."
                         }
                     }
                 }
