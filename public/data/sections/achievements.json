@@ -12,12 +12,6 @@
                 "title_short_nav": "Metodología",
                 "title_long_prefix": "Esta es mi",
                 "title_long": "{{Metodología}} de trabajo"
-            },
-            "fr": {
-                "title_short": "Processus",
-                "title_short_nav": "Méthodologie",
-                "title_long_prefix": "Voici ma",
-                "title_long": "{{Méthodologie}} de travail"
             }
         }
     },
@@ -28,8 +22,7 @@
             "component": "ArticleCards",
             "locales": {
                 "en": { "title": "4 Steps to Success" },
-                "es": { "title": "4 Pasos al Éxito" },
-                "fr": { "title": "4 Étapes vers le Succès" }
+                "es": { "title": "4 Pasos al Éxito" }
             },
             "settings": {
                 "order_items_by": "id",
@@ -51,10 +44,6 @@
                         "es": {
                             "title": "Paso 01: {{Contacto Cercano}}",
                             "text": "Abrimos conversación para comprender objetivos, alcance y equipo involucrado."
-                        },
-                        "fr": {
-                            "title": "Étape 01: {{Contact Proche}}",
-                            "text": "Nous ouvrons une conversation pour comprendre les objectifs, la portée et l'équipe impliquée."
                         }
                     }
                 },
@@ -74,10 +63,6 @@
                         "es": {
                             "title": "Paso 02: {{Planificación Clara}}",
                             "text": "Defino diagnóstico, roadmap y entregables clave para asegurar claridad compartida."
-                        },
-                        "fr": {
-                            "title": "Étape 02: {{Planification Claire}}",
-                            "text": "Je définis le diagnostic, la feuille de route et les livrables clés pour assurer une clarté partagée."
                         }
                     }
                 },
@@ -97,10 +82,6 @@
                         "es": {
                             "title": "Paso 03: {{Creación Iterativa}}",
                             "text": "Construyo soluciones iterativas con prototipos y avances visibles en cada sprint."
-                        },
-                        "fr": {
-                            "title": "Étape 03: {{Création Itérative}}",
-                            "text": "Je construis des solutions itératives avec des prototypes et des progrès visibles à chaque sprint."
                         }
                     }
                 },
@@ -120,10 +101,6 @@
                         "es": {
                             "title": "Paso 04: {{Entrega con Métricas}}",
                             "text": "Realizamos handoff completo, medimos impacto y trazamos mejoras continuas."
-                        },
-                        "fr": {
-                            "title": "Étape 04: {{Livraison avec Métriques}}",
-                            "text": "Nous effectuons une remise complète, mesurons l'impact et traçons des améliorations continues."
                         }
                     }
                 }

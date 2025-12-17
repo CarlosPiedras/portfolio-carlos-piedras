@@ -30,17 +30,6 @@
                 "Diseñador UX/UI",
                 "Arquitecto de Soluciones Digitales"
             ]
-        },
-        "fr": {
-            "localized_name": "Carlos Piedras",
-            "localized_name_stylized": "{{Carlos}} [[Piedras]]",
-            "status_message_available_for_freelance": "Disponible pour freelance !",
-            "roles": [
-                "Développeur Web Full Stack",
-                "Développeur Frontend",
-                "Designer UX/UI",
-                "Architecte de Solutions Digitales"
-            ]
         }
     }
 }

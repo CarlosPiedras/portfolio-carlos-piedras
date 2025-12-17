@@ -12,18 +12,6 @@
                 "title_short_nav": "Portafolio",
                 "title_long_prefix": "Explora",
                 "title_long": "Mi {{Portafolio}}"
-            },
-            "fr": {
-                "title_short": "Portfolio",
-                "title_short_nav": "Portfolio",
-                "title_long_prefix": "Découvrez",
-                "title_long": "Mon {{Portfolio}}"
-            },
-            "ko": {
-                "title_short": "포트폴리오",
-                "title_short_nav": "포트폴리오",
-                "title_long_prefix": "이것은 내",
-                "title_long": "{{포트폴리오}}입니다"
             }
         }
     },
@@ -44,18 +32,6 @@
                     "category_apps": "Apps",
                     "category_web": "Web",
                     "category_utilities": "Utilidades"
-                },
-                "fr": {
-                    "category_all": "Tout",
-                    "category_apps": "Apps",
-                    "category_web": "Web",
-                    "category_utilities": "Utilitaires"
-                },
-                "ko": {
-                    "category_all": "모두",
-                    "category_apps": "앱",
-                    "category_web": "웹",
-                    "category_utilities": "유틸리티"
                 }
             },
             "settings": {
@@ -90,11 +66,6 @@
                             "title": "GeoMadrid",
                             "text": "Plataforma web informativa con enfoque en <b>geolocalización</b> y servicios digitales. Un recurso completo para <b>oposiciones de bomberos</b> en Madrid, con materiales de preparación y recursos comunitarios.",
                             "tags": ["Plataforma Web", "Educación", "Geolocalización"]
-                        },
-                        "fr": {
-                            "title": "GeoMadrid",
-                            "text": "Plateforme web informative axée sur la <b>géolocalisation</b> et les services numériques. Une ressource complète pour les <b>concours de pompiers</b> à Madrid, avec du matériel de préparation et des ressources communautaires.",
-                            "tags": ["Plateforme Web", "Éducation", "Géolocalisation"]
                         }
                     }
                 },
@@ -124,11 +95,6 @@
                             "title": "Movana",
                             "text": "Proyecto digital centrado en <b>soluciones personalizadas</b> para experiencias de usuario. Construido para ayudar a las personas a conectar y sentir juntos más fácilmente, con diseño intuitivo e <b>inteligencia emocional</b> en su enfoque UX.",
                             "tags": ["Diseño UX", "Soluciones Digitales", "Experiencia de Usuario"]
-                        },
-                        "fr": {
-                            "title": "Movana",
-                            "text": "Projet numérique axé sur des <b>solutions personnalisées</b> pour les expériences utilisateur. Conçu pour aider les gens à se connecter et à ressentir ensemble plus facilement, avec un design intuitif et une <b>intelligence émotionnelle</b> dans son approche UX.",
-                            "tags": ["Design UX", "Solutions Numériques", "Expérience Utilisateur"]
                         }
                     }
                 },
@@ -158,11 +124,6 @@
                             "title": "BP Feedback",
                             "text": "Herramienta web de <b>gestión y análisis de feedback</b> en entornos profesionales. Especializada en <b>consultoría de clima laboral</b>, ofreciendo soluciones completas para evaluación y mejora de la cultura organizacional.",
                             "tags": ["Consultoría", "Clima Laboral", "Análisis"]
-                        },
-                        "fr": {
-                            "title": "BP Feedback",
-                            "text": "Outil web de <b>gestion et d'analyse de feedback</b> dans des environnements professionnels. Spécialisé dans le <b>conseil en climat de travail</b>, offrant des solutions complètes pour l'évaluation et l'amélioration de la culture organisationnelle.",
-                            "tags": ["Consulting", "Environnement de Travail", "Analyse"]
                         }
                     }
                 }

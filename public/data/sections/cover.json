@@ -12,12 +12,6 @@
                 "title_short_nav": "Sobre mí",
                 "title_long_prefix": "Hola...",
                 "title_long": "Soy {{Carlos Piedras!}}"
-            },
-            "fr": {
-                "title_short": "Bienvenue !",
-                "title_short_nav": "À propos",
-                "title_long_prefix": "Salut...",
-                "title_long": "Je suis {{Carlos Piedras !}}"
             }
         }
     },
@@ -53,8 +47,7 @@
             "component": "ArticleText",
             "locales": {
                 "en": {"title": "{{A little bit}} about me..."},
-                "es": {"title": "{{Un poco}} sobre mí..."},
-                "fr": {"title": "{{Un peu}} à propos de moi..."}
+                "es": {"title": "{{Un poco}} sobre mí..."}
             },
             "settings": {
                 "order_items_by": "id",
@@ -72,9 +65,6 @@
                         },
                         "es": {
                             "text": "<p>Soy {{Desarrollador Web Full Stack}} con un [[perfil técnico y alma creativa]]. Fan de la naturaleza y el deporte, aporto un enfoque práctico, seguro y de valor real a cada proyecto.</p><p>Con formación en {{administración de redes}} y {{diseño web}}, combinado con experiencia en empresas del sector tecnológico, desarrollo soluciones digitales como freelance. Me especializo en {{React}}, {{Next.js}} y tecnologías web modernas.</p><p>{{Transformo ideas en experiencias digitales extraordinarias}}, donde la visión estratégica se encuentra con la ejecución perfecta. ¡Espero colaborar [[contigo!]]</p>"
-                        },
-                        "fr": {
-                            "text": "<p>Je suis {{Développeur Web Full Stack}} avec un [[profil technique et une âme créative]]. Passionné par la nature et le sport, j'apporte une approche pratique, sécurisée et de valeur réelle à chaque projet.</p><p>Avec une formation en {{administration de réseaux}} et en {{design web}}, combinée à une expérience dans des entreprises technologiques, je développe des solutions digitales en freelance. Je me spécialise en {{React}}, {{Next.js}} et technologies web modernes.</p><p>{{Je transforme les idées en expériences digitales extraordinaires}}, où la vision stratégique rencontre l'exécution parfaite. J'ai hâte de collaborer [[avec vous !]]</p>"
                         }
                     }
                 }
@@ -86,9 +76,7 @@
             "component": "ArticleTestimonials",
             "locales": {
                 "en": {"title": "Client {{testimonials}}"},
-                "es": {"title": "Testimonios de {{clientes}}"},
-                "fr": {"title": "Témoignages de {{clients}}"},
-                "ko": {"title": "{{고객}} 추천사"}
+                "es": {"title": "Testimonios de {{clientes}}"}
             },
             "settings": {
                 "order_items_by": "id",
@@ -110,10 +98,6 @@
                         "es": {
                             "title": "CEO en [[INTESISTEMAS]]",
                             "text": "Teníamos una web muy básica y Carlos la {{transformó}} en una {{gran exposición}} para nuestros clientes. Resultados impresionantes."
-                        },
-                        "fr": {
-                            "title": "PDG de [[INTESISTEMAS]]",
-                            "text": "Nous avions un site web très basique et Carlos l'a {{transformé}} en une {{grande vitrine}} pour nos clients. Résultats impressionnants."
                         }
                     }
                 },
@@ -132,10 +116,6 @@
                         "es": {
                             "title": "Directora en [[Pyc3D]]",
                             "text": "Carlos {{identificó problemas críticos}} en nuestra web que afectaban al rendimiento. {{Los solucionó}} y ahora la web funciona perfectamente."
-                        },
-                        "fr": {
-                            "title": "Directrice chez [[Pyc3D]]",
-                            "text": "Carlos a {{identifié des problèmes critiques}} sur notre site web qui affectaient les performances. {{Il les a résolus}} et maintenant le site fonctionne parfaitement."
                         }
                     }
                 },
@@ -154,10 +134,6 @@
                         "es": {
                             "title": "CEO en [[NOVALABS]]",
                             "text": "Carlos nos entregó {{exactamente lo que necesitábamos}}. {{Trabajo profesional}} y buena comunicación durante todo el proyecto."
-                        },
-                        "fr": {
-                            "title": "PDG de [[NOVALABS]]",
-                            "text": "Carlos a livré {{exactement ce dont nous avions besoin}}. {{Travail professionnel}} et bonne communication tout au long du projet."
                         }
                     }
                 },
@@ -176,10 +152,6 @@
                         "es": {
                             "title": "Presidente en [[ACEDE]]",
                             "text": "Carlos configuró toda nuestra oficina {{desde cero}}: equipos, redes y migración a la nube. {{Servicio completo}} y eficiente."
-                        },
-                        "fr": {
-                            "title": "Président chez [[ACEDE]]",
-                            "text": "Carlos a configuré tout notre bureau {{à partir de zéro}} : ordinateurs, réseaux et migration vers le cloud. {{Service complet}} et efficace."
                         }
                     }
                 }
@@ -195,9 +167,7 @@
             },
             "locales": {
                 "en": {"title": "Personal {{interests}}"},
-                "es": {"title": "Intereses {{personales}}"},
-                "fr": {"title": "Intérêts {{personnels}} "},
-                "ko": {"title": "개인 {{관심사}}"}
+                "es": {"title": "Intereses {{personales}}"}
             },
             "items": [
                 {
@@ -215,10 +185,6 @@
                         "es": {
                             "title": "{{Naturaleza}} y Aire libre",
                             "text": "Apasionado por la naturaleza y actividades al aire libre."
-                        },
-                        "fr": {
-                            "title": "{{Nature}} & Plein air",
-                            "text": "Passionné par la nature et les activités en plein air."
                         }
                     }
                 },
@@ -237,10 +203,6 @@
                         "es": {
                             "title": "{{Deporte}} y Fitness",
                             "text": "Me gusta llevar un estilo de vida activo y fan del deporte."
-                        },
-                        "fr": {
-                            "title": "{{Sports}} & Fitness",
-                            "text": "Passionné de mode de vie actif et fan de sport."
                         }
                     }
                 },
@@ -259,10 +221,6 @@
                         "es": {
                             "title": "Desarrollo {{Web}}",
                             "text": "Siempre aprendiendo nuevos frameworks y mejores prácticas."
-                        },
-                        "fr": {
-                            "title": "Développement {{Web}}",
-                            "text": "Toujours en train d'apprendre de nouveaux frameworks et meilleures pratiques."
                         }
                     }
                 },
@@ -281,10 +239,6 @@
                         "es": {
                             "title": "Diseño {{UX/UI}}",
                             "text": "Creando experiencias de usuario intuitivas y hermosas."
-                        },
-                        "fr": {
-                            "title": "Design {{UX/UI}}",
-                            "text": "Créer des expériences utilisateur intuitives et belles."
                         }
                     }
                 }

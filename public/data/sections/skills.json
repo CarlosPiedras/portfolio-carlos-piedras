@@ -12,18 +12,6 @@
                 "title_short_nav": "Habilidades",
                 "title_long_prefix": "Explora",
                 "title_long": "Mis {{Habilidades}}"
-            },
-            "fr": {
-                "title_short": "Capacités",
-                "title_short_nav": "Capacités",
-                "title_long_prefix": "Explorez",
-                "title_long": "Mes {{Compétences}}"
-            },
-            "ko": {
-                "title_short": "스킬",
-                "title_short_nav": "스킬",
-                "title_long_prefix": "이것은 내",
-                "title_long": "{{스킬}}입니다"
             }
         }
     },
@@ -53,10 +41,6 @@
                         "es": {
                             "title": "Desarrollo {{Web}}",
                             "text": "¡Construyo sitios web modernos y responsivos con las últimas tecnologías!"
-                        },
-                        "fr": {
-                            "title": "Développement {{Web}}",
-                            "text": "Je crée des sites web modernes et réactifs avec les dernières technologies !"
                         }
                     }
                 },
@@ -75,10 +59,6 @@
                         "es": {
                             "title": "Diseño {{UX/UI}}",
                             "text": "¡Creo experiencias de usuario intuitivas y hermosas!"
-                        },
-                        "fr": {
-                            "title": "Design {{UX/UI}}",
-                            "text": "Je crée des expériences utilisateur intuitives et belles !"
                         }
                     }
                 },
@@ -97,10 +77,6 @@
                         "es": {
                             "title": "Diseño {{Responsivo}}",
                             "text": "¡Tu sitio web se verá perfecto en cualquier dispositivo!"
-                        },
-                        "fr": {
-                            "title": "Design {{Responsive}}",
-                            "text": "Votre site web sera parfait sur tous les appareils !"
                         }
                     }
                 },
@@ -119,10 +95,6 @@
                         "es": {
                             "title": "Optimización de {{Rendimiento}}",
                             "text": "¡Sitios web rápidos y optimizados para la mejor experiencia de usuario!"
-                        },
-                        "fr": {
-                            "title": "Optimisation des {{Performances}}",
-                            "text": "Sites web rapides et optimisés pour la meilleure expérience utilisateur !"
                         }
                     }
                 },
@@ -141,10 +113,6 @@
                         "es": {
                             "title": "Administración de {{Redes}}",
                             "text": "¡Base sólida en administración de redes e infraestructura!"
-                        },
-                        "fr": {
-                            "title": "Administration {{Réseau}}",
-                            "text": "Base solide en administration réseau et infrastructure !"
                         }
                     }
                 }
@@ -156,8 +124,7 @@
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Backend & Tools"},
-                "es": {"title": "Backend y Herramientas"},
-                "fr": {"title": "Backend et Outils"}
+                "es": {"title": "Backend y Herramientas"}
             },
             "settings": {
                 "max_items_per_row": 3,
@@ -183,10 +150,6 @@
                         "es": {
                             "title": "Git y GitHub",
                             "text": "Control de versiones y colaboración con Git y GitHub."
-                        },
-                        "fr": {
-                            "title": "Git et GitHub",
-                            "text": "Contrôle de version et collaboration avec Git et GitHub."
                         }
                     }
                 },
@@ -206,10 +169,6 @@
                         "es": {
                             "title": "Node.js",
                             "text": "Desarrollo backend con Node.js y Express."
-                        },
-                        "fr": {
-                            "title": "Node.js",
-                            "text": "Développement backend avec Node.js et Express."
                         }
                     }
                 },
@@ -229,10 +188,6 @@
                         "es": {
                             "title": "APIs REST",
                             "text": "Construcción y consumo de APIs RESTful."
-                        },
-                        "fr": {
-                            "title": "APIs REST",
-                            "text": "Construction et consommation d'APIs RESTful."
                         }
                     }
                 },
@@ -252,10 +207,6 @@
                         "es": {
                             "title": "Bases de Datos",
                             "text": "Experiencia con bases de datos SQL y NoSQL."
-                        },
-                        "fr": {
-                            "title": "Bases de Données",
-                            "text": "Expérience avec les bases de données SQL et NoSQL."
                         }
                     }
                 },
@@ -275,10 +226,6 @@
                         "es": {
                             "title": "Servicios de Email",
                             "text": "Integración con servicios de email como Nodemailer."
-                        },
-                        "fr": {
-                            "title": "Services Email",
-                            "text": "Intégration avec des services d'email comme Nodemailer."
                         }
                     }
                 }
@@ -290,8 +237,7 @@
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Frontend Stack"},
-                "es": {"title": "Stack de Frontend"},
-                "fr": {"title": "Stack Frontend"}
+                "es": {"title": "Stack de Frontend"}
             },
             "settings": {
                 "max_items_per_row": 3,
@@ -317,10 +263,6 @@
                         "es": {
                             "title": "HTML 5",
                             "text": "Competente en HTML5 para construir páginas web estructuradas."
-                        },
-                        "fr": {
-                            "title": "HTML 5",
-                            "text": "Compétent en HTML5 pour créer des pages web structurées."
                         }
                     }
                 },
@@ -340,10 +282,6 @@
                         "es": {
                             "title": "CSS 3",
                             "text": "Experto en CSS3 para diseños responsivos y visualmente atractivos."
-                        },
-                        "fr": {
-                            "title": "CSS 3",
-                            "text": "Expert en CSS3 pour des designs réactifs et visuellement attrayants."
                         }
                     }
                 },
@@ -363,10 +301,6 @@
                         "es": {
                             "title": "JavaScript ES6+",
                             "text": "JavaScript ES6+ avanzado para aplicaciones web dinámicas."
-                        },
-                        "fr": {
-                            "title": "JavaScript ES6+",
-                            "text": "JavaScript ES6+ avancé pour des applications web dynamiques."
                         }
                     }
                 },
@@ -386,10 +320,6 @@
                         "es": {
                             "title": "React",
                             "text": "Experto en React para construir aplicaciones web modernas e interactivas."
-                        },
-                        "fr": {
-                            "title": "React",
-                            "text": "Expert en React pour créer des applications web modernes et interactives."
                         }
                     }
                 },
@@ -409,10 +339,6 @@
                         "es": {
                             "title": "Next.js",
                             "text": "Especializado en Next.js para renderizado del lado del servidor y sitios estáticos."
-                        },
-                        "fr": {
-                            "title": "Next.js",
-                            "text": "Spécialisé en Next.js pour le rendu côté serveur et les sites statiques."
                         }
                     }
                 },
@@ -432,10 +358,6 @@
                         "es": {
                             "title": "TypeScript",
                             "text": "Sólido entendimiento de TypeScript para desarrollo con tipos seguros."
-                        },
-                        "fr": {
-                            "title": "TypeScript",
-                            "text": "Solide compréhension de TypeScript pour un développement sûr."
                         }
                     }
                 },
@@ -455,10 +377,6 @@
                         "es": {
                             "title": "Tailwind CSS",
                             "text": "Experto en Tailwind CSS para estilos basados en utilidades."
-                        },
-                        "fr": {
-                            "title": "Tailwind CSS",
-                            "text": "Expert en Tailwind CSS pour un style utilitaire."
                         }
                     }
                 }
@@ -470,8 +388,7 @@
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Languages"},
-                "es": {"title": "Idiomas"},
-                "fr": {"title": "Langues"}
+                "es": {"title": "Idiomas"}
             },
             "settings": {
                 "max_items_per_row": 1,
@@ -498,11 +415,6 @@
                             "title": "Español",
                             "text": "Hablante nativo con excelentes habilidades de comunicación y escritura.",
                             "level": "Nativo"
-                        },
-                        "fr": {
-                            "title": "Espagnol",
-                            "text": "Locuteur natif avec d'excellentes compétences en communication et en rédaction.",
-                            "level": "Natif"
                         }
                     }
                 },
@@ -523,11 +435,6 @@
                             "title": "Inglés",
                             "text": "Competencia intermedia en inglés; cómodo en la comunicación profesional.",
                             "level": "Intermedio"
-                        },
-                        "fr": {
-                            "title": "Anglais",
-                            "text": "Compétence intermédiaire en anglais; à l'aise dans la communication professionnelle.",
-                            "level": "Intermédiaire"
                         }
                     }
                 }
