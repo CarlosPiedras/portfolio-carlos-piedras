@@ -139,7 +139,7 @@
                     "img": "",
                     "faIcon": "fa-brands fa-git",
                     "faIconColors": {"bg": "", "fill": "#F05032"},
-                    "date": {"year": 2020, "month": 1},
+                    "date": {"year": null, "month": null},
                     "percentage": 90,
                     "locales": {
                         "en": {
@@ -158,7 +158,7 @@
                     "img": "",
                     "faIcon": "fa-brands fa-node-js",
                     "faIconColors": {"bg": "", "fill": "#339933"},
-                    "date": {"year": 2021, "month": 3},
+                    "date": {"year": null, "month": null},
                     "percentage": 85,
                     "locales": {
                         "en": {
@@ -177,7 +177,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-plug",
                     "faIconColors": {"bg": "", "fill": "#4285F4"},
-                    "date": {"year": 2021, "month": 6},
+                    "date": {"year": null, "month": null},
                     "percentage": 85,
                     "locales": {
                         "en": {
@@ -196,7 +196,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-database",
                     "faIconColors": {"bg": "", "fill": "#4479A1"},
-                    "date": {"year": 2021, "month": 10},
+                    "date": {"year": null, "month": null},
                     "percentage": 75,
                     "locales": {
                         "en": {
@@ -215,7 +215,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-envelope",
                     "faIconColors": {"bg": "", "fill": "#EA4335"},
-                    "date": {"year": 2022, "month": 4},
+                    "date": {"year": null, "month": null},
                     "percentage": 80,
                     "locales": {
                         "en": {
@@ -252,7 +252,7 @@
                     "img": "",
                     "faIcon": "fa-brands fa-html5",
                     "faIconColors": {"bg": "", "fill": "#E34F26"},
-                    "date": {"year": 2019, "month": 1},
+                    "date": {"year": null, "month": null},
                     "percentage": 100,
                     "locales": {
                         "en": {
@@ -271,7 +271,7 @@
                     "img": "",
                     "faIcon": "fa-brands fa-css3-alt",
                     "faIconColors": {"bg": "", "fill": "#1572B6"},
-                    "date": {"year": 2019, "month": 3},
+                    "date": {"year": null, "month": null},
                     "percentage": 95,
                     "locales": {
                         "en": {
@@ -290,7 +290,7 @@
                     "img": "",
                     "faIcon": "fa-brands fa-js",
                     "faIconColors": {"bg": "", "fill": "#F7DF1E", "fillLight": "#a69617"},
-                    "date": {"year": 2020, "month": 1},
+                    "date": {"year": null, "month": null},
                     "percentage": 95,
                     "locales": {
                         "en": {
@@ -309,7 +309,7 @@
                     "img": "",
                     "faIcon": "fa-brands fa-react",
                     "faIconColors": {"bg": "", "fill": "#61DAFB", "fillLight": "#317385"},
-                    "date": {"year": 2021, "month": 6},
+                    "date": {"year": null, "month": null},
                     "percentage": 95,
                     "locales": {
                         "en": {
@@ -328,7 +328,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-n",
                     "faIconColors": {"bg": "#000000", "fill": "#FFFFFF"},
-                    "date": {"year": 2022, "month": 3},
+                    "date": {"year": null, "month": null},
                     "percentage": 90,
                     "locales": {
                         "en": {
@@ -347,7 +347,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-code",
                     "faIconColors": {"bg": "", "fill": "#3178C6"},
-                    "date": {"year": 2022, "month": 8},
+                    "date": {"year": null, "month": null},
                     "percentage": 85,
                     "locales": {
                         "en": {
@@ -366,7 +366,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-wind",
                     "faIconColors": {"bg": "", "fill": "#06B6D4"},
-                    "date": {"year": 2023, "month": 2},
+                    "date": {"year": null, "month": null},
                     "percentage": 90,
                     "locales": {
                         "en": {
