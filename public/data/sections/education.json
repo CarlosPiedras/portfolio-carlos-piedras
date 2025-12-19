@@ -28,136 +28,161 @@
             "items": [
                 {
                     "id": 1,
-                    "img": "images/pictures/timeline-place-udacity.png",
+                    "img": "images/pictures/Estudio1.webp",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2014, "month": 1},
-                    "dateEnd": {"year": 2014, "month": 6},
+                    "dateStart": {"year": 2025, "month": 1},
+                    "dateEnd": {"year": 2026, "month": 12},
                     "locales": {
                         "en": {
-                            "title": "PHP Development {{Nanodegree}}",
+                            "title": "Continuous Training in {{Modern Web Development}}",
                             "province": "",
-                            "country": "Remote",
-                            "institution": "Udacity",
-                            "text": "Successfully completed an intensive Nanodegree program with a strong emphasis on [[PHP development]], where I gained comprehensive, hands-on experience in building dynamic and scalable web applications.",
-                            "list": [],
-                            "tags": []
+                            "country": "Barcelona",
+                            "institution": "Self-taught",
+                            "text": "Currently expanding knowledge in modern web development technologies and frameworks, with a special focus on [[React, Next.js]] and scalable architectures for enterprise applications.",
+                            "list": [
+                                "Modern JavaScript frameworks",
+                                "Next.js application development",
+                                "Optimization and best practices"
+                            ],
+                            "tags": [
+                                "React", "Next.js", "TypeScript", "Node.js", "Tailwind CSS"
+                            ]
                         },
                         "es": {
-                            "title": "Desarrollo en PHP {{Nanodegree}}",
+                            "title": "Formación Continua en {{Desarrollo Web Moderno}}",
                             "province": "",
-                            "country": "Remoto",
-                            "institution": "Udacity",
-                            "text": "Completé con éxito un programa intensivo de Nanodegree con un fuerte enfoque en [[PHP development]], donde adquirí una experiencia práctica y completa en la creación de aplicaciones web dinámicas y escalables.",
-                            "list": []
+                            "country": "Barcelona",
+                            "institution": "Autodidacta",
+                            "text": "Actualmente ampliando conocimientos en tecnologías y frameworks modernos de desarrollo web, con especial enfoque en [[React, Next.js]] y arquitecturas escalables para aplicaciones empresariales.",
+                            "list": [
+                                "Frameworks modernos de JavaScript",
+                                "Desarrollo de aplicaciones con Next.js",
+                                "Optimización y mejores prácticas"
+                            ],
+                            "tags": [
+                                "React", "Next.js", "TypeScript", "Node.js", "Tailwind CSS"
+                            ]
                         }
                     }
                 },
                 {
                     "id": 2,
-                    "img": "images/pictures/timeline-place-mit.png",
+                    "img": "images/pictures/estudios2.webp",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2016, "month": 1},
-                    "dateEnd": {"year": 2020, "month": 12},
+                    "dateStart": {"year": 2023, "month": 9},
+                    "dateEnd": {"year": 2023, "month": 6},
                     "locales": {
                         "en": {
-                            "title": "{{Bachelor}} in Computer Science",
-                            "province": "Massachusetts",
-                            "country": "US",
-                            "institution": "MIT",
-                            "text": "Earned a [[Bachelor's degree in Computer Science]], focusing on algorithms, data structures, software engineering, and web development. Gained hands-on experience through various programming projects, coding boot camps, and many collaborative team-based software development activities.",
-                            "list": [],
-                            "tags": []
+                            "title": "Higher Degree in {{Web Application Development}}",
+                            "province": "",
+                            "country": "Barcelona",
+                            "institution": "Jesuites Bellvitge",
+                            "text": "Completed comprehensive training in full-stack web development, focused on creating [[dynamic and scalable applications]], with hands-on experience in modern frameworks and databases.",
+                            "list": [
+                                "Frontend and backend development",
+                                "Relational database management",
+                                "REST API implementation"
+                            ],
+                            "tags": [
+                                "PHP", "JavaScript", "MySQL", "HTML5", "CSS3", "React"
+                            ]
                         },
                         "es": {
-                            "title": "{{Grado}} en Ciencias de la Computación",
-                            "province": "Massachusetts",
-                            "country": "EE. UU.",
-                            "institution": "MIT",
-                            "text": "Obtuve un [[grado en Ciencias de la Computación]], con enfoque en algoritmos, estructuras de datos, ingeniería de software y desarrollo web. Adquirí experiencia práctica a través de diversos proyectos de programación, bootcamps de codificación y actividades colaborativas de desarrollo en equipo.",
-                            "list": [],
-                            "tags": []
+                            "title": "Grado Superior en {{Desarrollo de Aplicaciones Web}}",
+                            "province": "",
+                            "country": "Barcelona",
+                            "institution": "Jesuites Bellvitge",
+                            "text": "Completé una formación completa en desarrollo web full-stack, enfocada en la creación de [[aplicaciones dinámicas y escalables]], con experiencia práctica en frameworks modernos y bases de datos.",
+                            "list": [
+                                "Desarrollo frontend y backend",
+                                "Gestión de bases de datos relacionales",
+                                "Implementación de APIs REST"
+                            ],
+                            "tags": [
+                                "PHP", "JavaScript", "MySQL", "HTML5", "CSS3", "React"
+                            ]
                         }
                     }
                 },
                 {
                     "id": 3,
-                    "img": "images/pictures/timeline-place-university-paris.png",
+                    "img": "images/pictures/estudios3.webp",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2020, "month": 9},
+                    "dateStart": {"year": 2022, "month": 9},
                     "dateEnd": {"year": 2022, "month": 6},
                     "locales": {
                         "en": {
-                            "title": "{{Master's}} in Artificial Intelligence",
+                            "title": "Higher Degree in {{Network Systems Administration}}",
                             "province": "",
-                            "country": "France",
-                            "institution": "University of Paris",
-                            "text": "Completed a comprehensive Master's program focused on [[cutting-edge AI topics]], including:",
+                            "country": "Barcelona",
+                            "institution": "Jesuites Bellvitge",
+                            "text": "Obtained specialized training in network systems administration and infrastructure services, with emphasis on [[security, virtualization]] and enterprise server management.",
                             "list": [
-                                "Machine Learning",
-                                "Natural Language Processing (NLP)",
-                                "Neural Networks"
+                                "Active Directory and network services administration",
+                                "Virtualization solutions implementation",
+                                "Security and backup management"
                             ],
                             "tags": [
-                                "Neural Networks",
-                                "Machine Learning"
+                                "Active Directory", "DNS", "DHCP", "VPN", "Firewall", "VMware"
                             ]
                         },
                         "es": {
-                            "title": "{{Máster}} en Inteligencia Artificial",
+                            "title": "Grado Superior en {{Administración de Sistemas Informáticos en Red}}",
                             "province": "",
-                            "country": "Francia",
-                            "institution": "Universidad de París",
-                            "text": "Completé un programa de máster integral centrado en [[temas avanzados de IA]], incluyendo:",
+                            "country": "Barcelona",
+                            "institution": "Jesuites Bellvitge",
+                            "text": "Obtuve formación especializada en administración de sistemas en red y servicios de infraestructura, con énfasis en [[seguridad, virtualización]] y gestión de servidores empresariales.",
                             "list": [
-                                "Aprendizaje automático",
-                                "Procesamiento del lenguaje natural (PLN)",
-                                "Redes neuronales"
+                                "Administración de Active Directory y servicios de red",
+                                "Implementación de soluciones de virtualización",
+                                "Gestión de seguridad y copias de respaldo"
                             ],
                             "tags": [
-                                "Redes neuronales",
-                                "Aprendizaje automático"
+                                "Active Directory", "DNS", "DHCP", "VPN", "Firewall", "VMware"
                             ]
                         }
                     }
                 },
                 {
                     "id": 4,
-                    "img": "images/pictures/timeline-place-harvard.png",
+                    "img": "images/pictures/estudios4.webp",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2022, "month": 9},
-                    "dateEnd": {"year": 2025, "month": 6},
+                    "dateStart": {"year": 2020, "month": 9},
+                    "dateEnd": {"year": 2020, "month": 6},
                     "locales": {
                         "en": {
-                            "title": "{{PhD}} in Computer Science",
-                            "province": "Massachusetts",
-                            "country": "US",
-                            "institution": "Harvard University",
-                            "text": "Currently pursuing a PhD with a focus on [[deep learning]] and its real-world applications, particularly in:",
+                            "title": "Intermediate Degree in {{Microcomputer Systems and Networks}}",
+                            "province": "",
+                            "country": "Barcelona",
+                            "institution": "Jesuites Bellvitge",
+                            "text": "Completed comprehensive training focused on [[computer systems administration]], local networks and equipment maintenance, where I acquired solid knowledge in IT infrastructure and technical problem solving.",
                             "list": [
-                                "Computer Vision",
-                                "Innovative AI research",
-                                "Developing [[novel algorithms]] for image recognition"
+                                "Operating systems installation and configuration",
+                                "Local network administration",
+                                "Computer equipment maintenance"
                             ],
                             "tags": [
-                                "Deep Learning", "Computer Vision", "AI Research", "Algorithms"
+                                "Windows Server", "Linux", "Networks", "Hardware", "TCP/IP", "Cisco"
                             ]
                         },
                         "es": {
-                            "title": "{{Doctorado}} en Ciencias de la Computación",
-                            "province": "Massachusetts",
-                            "country": "EE. UU.",
-                            "institution": "Universidad de Harvard",
-                            "text": "Actualmente cursando un doctorado con enfoque en [[aprendizaje profundo]] y sus aplicaciones en el mundo real, especialmente en:",
+                            "title": "Grado Medio en {{Sistemas Microinformáticos y Redes}}",
+                            "province": "",
+                            "country": "Barcelona",
+                            "institution": "Jesuites Bellvitge",
+                            "text": "Completé una formación integral centrada en [[administración de sistemas informáticos]], redes locales y mantenimiento de equipos, donde adquirí conocimientos sólidos en infraestructura TI y resolución de problemas técnicos.",
                             "list": [
-                                "Visión por computadora",
-                                "Investigación innovadora en IA",
-                                "Desarrollo de [[nuevos algoritmos]] para el reconocimiento de imágenes"
+                                "Instalación y configuración de sistemas operativos",
+                                "Administración de redes locales",
+                                "Mantenimiento de equipos informáticos"
                             ],
-                            "tags": ["Aprendizaje profundo", "Visión por computadora", "Investigación en IA", "Algoritmos"]
+                            "tags": [
+                                "Windows Server", "Linux", "Redes", "Hardware", "TCP/IP", "Cisco"
+                            ]
                         }
                     }
                 }
