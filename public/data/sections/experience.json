@@ -22,131 +22,167 @@
             "component": "ArticleTimeline",
             "locales": {},
             "settings": {
-                "order_items_by": "id",
-                "order_items_sort": "dateStart"
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
             },
             "items": [
                 {
-                    "id": 1,
-                    "img": "images/pictures/timeline-place-sapphire-studio.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2016, "month": 3},
-                    "dateEnd": {"year": 2018, "month": 6},
+                    "id": 4,
+                    "img": "",
+                    "faIcon": "fa-solid fa-building",
+                    "faIconColors": {"bg": "#0066CC", "fill": "#FFF"},
+                    "dateStart": {"year": 2023, "month": 11},
+                    "dateEnd": {"now": true},
                     "locales": {
                         "en": {
-                            "title": "{{Backend}} Developer",
-                            "province": "Toronto",
-                            "country": "Canada",
-                            "institution": "Sapphire Studio",
-                            "text": "Developed and maintained [[scalable backend systems]] for various clients, optimizing database performance and implementing RESTful APIs to improve application functionality.",
-                            "list": [],
-                            "tags": ["PHP8.0", "MySQL", "Laravel"]
+                            "title": "Network {{Administrator}}",
+                            "province": "Barcelona",
+                            "country": "",
+                            "institution": "CITESA",
+                            "text": "Managing and maintaining the entire IT infrastructure with responsibilities including:",
+                            "list": [
+                                "Physical server management and monitoring",
+                                "Active Directory administration and user management",
+                                "End-user technical support and troubleshooting",
+                                "Network configuration and optimization",
+                                "System security and backup management"
+                            ],
+                            "tags": ["Windows Server", "Active Directory", "VMware", "DNS", "DHCP", "Linux"]
                         },
                         "es": {
-                            "title": "Desarrollador {{Backend}}",
-                            "province": "Toronto",
-                            "country": "Canadá",
-                            "institution": "Sapphire Studio",
-                            "text": "Desarrollé y mantuve [[sistemas backend escalables]] para varios clientes, optimizando el rendimiento de bases de datos e implementando APIs RESTful para mejorar la funcionalidad de las aplicaciones.",
-                            "list": [],
-                            "tags": []
-                        }
-                    }
-                },
-                {
-                    "id": 2,
-                    "img": "images/pictures/timeline-place-coursera.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2018, "month": 6},
-                    "dateEnd": {"year": 2020, "month": 12},
-                    "locales": {
-                        "en": {
-                            "title": "{{Full-Stack}} Engineer",
-                            "province": "",
-                            "country": "Remote",
-                            "institution": "Coursera",
-                            "text": "Worked on enhancing the Coursera website by implementing new features and improving user experience, utilizing both frontend and backend technologies to ensure seamless functionality.",
-                            "list": [],
-                            "tags": ["Svelte", "NodeJS", "Laravel", "REST APIs", "Docker"]
-                        },
-                        "es": {
-                            "title": "Ingeniero {{Full-Stack}}",
-                            "province": "",
-                            "country": "Remoto",
-                            "institution": "Coursera",
-                            "text": "Trabajé en la mejora del sitio web de Coursera implementando nuevas funciones y optimizando la experiencia del usuario, utilizando tecnologías tanto de frontend como de backend para garantizar una funcionalidad fluida.",
-                            "list": [],
-                            "tags": []
+                            "title": "{{Administrador}} de Redes",
+                            "province": "Barcelona",
+                            "country": "",
+                            "institution": "CITESA",
+                            "text": "Gestión y mantenimiento de toda la infraestructura IT con responsabilidades que incluyen:",
+                            "list": [
+                                "Gestión y monitorización de servidores físicos",
+                                "Administración de Active Directory y gestión de usuarios",
+                                "Soporte técnico y resolución de incidencias de usuarios",
+                                "Configuración y optimización de redes",
+                                "Seguridad de sistemas y gestión de backups"
+                            ],
+                            "tags": ["Windows Server", "Active Directory", "VMware", "DNS", "DHCP", "Linux"]
                         }
                     }
                 },
                 {
                     "id": 3,
-                    "img": "images/pictures/timeline-place-adobe.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2020, "month": 12},
-                    "dateEnd": {"year": 2022, "month": 11},
+                    "img": "",
+                    "faIcon": "fa-solid fa-network-wired",
+                    "faIconColors": {"bg": "#2E7D32", "fill": "#FFF"},
+                    "dateStart": {"year": 2022, "month": 7},
+                    "dateEnd": {"year": 2023, "month": 8},
                     "locales": {
                         "en": {
-                            "title": "{{Backend}} Engineer",
-                            "province": "New York",
-                            "country": "US",
-                            "institution": "Adobe Inc",
-                            "text": "Contributed to the development of robust backend systems for Adobe Creative Cloud, integrating third-party services and improving data processing efficiency through cloud functions.",
-                            "list": [],
-                            "tags": ["JavaScript", "Flutter", "MongoDB", "CodeIgniter", "Kubernetes"]
+                            "title": "Network {{Administrator}}",
+                            "province": "Barcelona",
+                            "country": "",
+                            "institution": "ETICDATA",
+                            "text": "Responsible for network infrastructure and IT systems management, focusing on:",
+                            "list": [
+                                "Network configuration and administration",
+                                "Backup systems management and monitoring",
+                                "IT security implementation and maintenance",
+                                "Server administration and optimization",
+                                "Technical support and infrastructure improvements"
+                            ],
+                            "tags": ["Windows Server", "Hyper-V", "Active Directory", "Backup Solutions", "Network Security"]
                         },
                         "es": {
-                            "title": "Ingeniero {{Backend}}",
-                            "province": "Nueva York",
-                            "country": "EE. UU.",
-                            "institution": "Adobe Inc",
-                            "text": "Contribuí al desarrollo de sistemas backend robustos para Adobe Creative Cloud, integrando servicios de terceros y mejorando la eficiencia del procesamiento de datos mediante funciones en la nube.",
-                            "list": [],
-                            "tags": []
+                            "title": "{{Administrador}} de Redes",
+                            "province": "Barcelona",
+                            "country": "",
+                            "institution": "ETICDATA",
+                            "text": "Responsable de la infraestructura de red y gestión de sistemas IT, con enfoque en:",
+                            "list": [
+                                "Configuración y administración de redes",
+                                "Gestión y monitorización de sistemas de backup",
+                                "Implementación y mantenimiento de seguridad informática",
+                                "Administración y optimización de servidores",
+                                "Soporte técnico y mejoras de infraestructura"
+                            ],
+                            "tags": ["Windows Server", "Hyper-V", "Active Directory", "Soluciones de Backup", "Seguridad de Redes"]
                         }
                     }
                 },
                 {
-                    "id": 4,
+                    "id": 2,
                     "img": "",
-                    "faIcon": "fa-brands fa-apple",
-                    "faIconColors": {"bg": "#111", "fill": "#EEE"},
-                    "dateStart": {"year": 2022, "month": 12},
-                    "dateEnd": {"now": true},
+                    "faIcon": "fa-solid fa-graduation-cap",
+                    "faIconColors": {"bg": "#FF6F00", "fill": "#FFF"},
+                    "dateStart": {"year": 2021, "month": 2},
+                    "dateEnd": {"year": 2022, "month": 6},
                     "locales": {
                         "en": {
-                            "title": "{{Senior Backend}} Developer",
-                            "province": "California",
-                            "country": "US",
-                            "institution": "Apple Inc",
-                            "text": "Leading a team of developers to design and implement backend solutions for Apple's services, with a focus on:",
+                            "title": "Network {{Administrator}} (Internship)",
+                            "province": "Barcelona",
+                            "country": "",
+                            "institution": "ETICDATA",
+                            "text": "Internship focused on learning and supporting network administration tasks:",
                             "list": [
-                                "Security",
-                                "Scalability to handle millions of users globally",
-                                "Developing RESTful APIs",
-                                "Optimizing database performance with PostgreSQL",
-                                "Building services with Swift, PHP, and GraphQL"
+                                "Server administration support and maintenance",
+                                "Equipment configuration and deployment",
+                                "System and network monitoring",
+                                "Help desk and user support",
+                                "Learning IT infrastructure best practices"
                             ],
-                            "tags": ["JavaScript", "React", "NodeJS", "PHP", "REST APIs", "Docker"]
+                            "tags": ["Windows Server", "Active Directory", "Help Desk", "System Monitoring", "IT Support"]
                         },
                         "es": {
-                            "title": "Desarrollador {{Senior Backend}}",
-                            "province": "California",
-                            "country": "EE. UU.",
-                            "institution": "Apple Inc",
-                            "text": "Liderando un equipo de desarrolladores para diseñar e implementar soluciones backend para los servicios de Apple, con enfoque en:",
+                            "title": "{{Administrador}} de Redes (Prácticas)",
+                            "province": "Barcelona",
+                            "country": "",
+                            "institution": "ETICDATA",
+                            "text": "Prácticas enfocadas en el aprendizaje y apoyo en tareas de administración de redes:",
                             "list": [
-                                "Seguridad",
-                                "Escalabilidad para manejar millones de usuarios a nivel global",
-                                "Desarrollo de APIs RESTful",
-                                "Optimización del rendimiento de bases de datos con PostgreSQL",
-                                "Creación de servicios con Swift, PHP y GraphQL"
+                                "Apoyo en administración y mantenimiento de servidores",
+                                "Configuración y despliegue de equipos",
+                                "Monitorización de sistemas y redes",
+                                "Help desk y soporte a usuarios",
+                                "Aprendizaje de mejores prácticas en infraestructura IT"
                             ],
-                            "tags": []
+                            "tags": ["Windows Server", "Active Directory", "Help Desk", "Monitorización de Sistemas", "Soporte IT"]
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "img": "",
+                    "faIcon": "fa-solid fa-chart-line",
+                    "faIconColors": {"bg": "#C62828", "fill": "#FFF"},
+                    "dateStart": {"year": 2020, "month": 2},
+                    "dateEnd": {"year": 2021, "month": 6},
+                    "locales": {
+                        "en": {
+                            "title": "{{IT Support}} (Internship)",
+                            "province": "Barcelona",
+                            "country": "",
+                            "institution": "Smart Investment Consultores",
+                            "text": "Internship combining IT equipment management and digital marketing responsibilities:",
+                            "list": [
+                                "Computer equipment installation and maintenance",
+                                "Hardware and software configuration",
+                                "Technical troubleshooting and support",
+                                "Google Ads campaign management and optimization",
+                                "Performance analysis and reporting"
+                            ],
+                            "tags": ["Google Ads", "Google Workspace", "IT Support", "Hardware Management", "Digital Marketing"]
+                        },
+                        "es": {
+                            "title": "{{Soporte IT}} (Prácticas)",
+                            "province": "Barcelona",
+                            "country": "",
+                            "institution": "Smart Investment Consultores",
+                            "text": "Prácticas combinando gestión de equipos informáticos y responsabilidades de marketing digital:",
+                            "list": [
+                                "Instalación y mantenimiento de equipos informáticos",
+                                "Configuración de hardware y software",
+                                "Resolución de problemas técnicos y soporte",
+                                "Gestión y optimización de campañas de Google Ads",
+                                "Análisis de rendimiento e informes"
+                            ],
+                            "tags": ["Google Ads", "Google Workspace", "Soporte IT", "Gestión de Hardware", "Marketing Digital"]
                         }
                     }
                 }
