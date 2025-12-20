@@ -25,13 +25,13 @@
                     "category_all": "All",
                     "category_apps": "Apps",
                     "category_web": "Web",
-                    "category_utilities": "Utilities"
+                    "category_utilities": "Support"
                 },
                 "es": {
                     "category_all": "Todo",
                     "category_apps": "Apps",
                     "category_web": "Web",
-                    "category_utilities": "Utilidades"
+                    "category_utilities": "Soporte"
                 }
             },
             "settings": {
@@ -136,6 +136,31 @@
                             "title": "NOVALABS",
                             "text": "Proyecto digital orientado a <b>soluciones tecnológicas</b> y desarrollo web. Un sitio moderno y escalable que refuerza la identidad de marca y comunica servicios, experiencia y visión innovadora con un fuerte enfoque en <b>usabilidad y rendimiento</b>.",
                             "tags": ["Desarrollo Web", "Soluciones Digitales", "Consultoría Tecnológica"]
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "categoryId": "category_utilities",
+                    "img": "images/pictures/acedelogo.webp",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "ACEDE",
+                            "text": "Complete setup <b>from scratch</b> of two laptops, along with <b>cleaning, optimization and tuning</b> of two other computers. The entire environment was <b>synchronized with the cloud</b>, ensuring a <b>stable, secure workflow</b> fully integrated with the office.",
+                            "tags": ["Network Administration", "Cloud Sync", "System Optimization", "IT Infrastructure"]
+                        },
+                        "es": {
+                            "title": "ACEDE",
+                            "text": "Preparación completa <b>desde cero</b> de dos portátiles, junto con la <b>limpieza, optimización y puesta a punto</b> de otros dos equipos. Todo el entorno quedó <b>sincronizado con la nube</b>, garantizando un <b>flujo de trabajo estable, seguro</b> y totalmente integrado con la oficina.",
+                            "tags": ["Administración de Redes", "Sincronización Cloud", "Optimización de Sistemas", "Infraestructura IT"]
                         }
                     }
                 }
