@@ -43,7 +43,7 @@
                 {
                     "id": 1,
                     "categoryId": "category_web",
-                    "img": "images/pictures/geomadrid-logo.png",
+                    "img": "images/pictures/geoomadridlogo.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
@@ -51,7 +51,11 @@
                             {"href": "https://geomadrid.es/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
                         ],
                         "screenshots": [
-                            "images/pictures/geomadrid-screenshot.png"
+                            "images/pictures/geo1.png",
+                            "images/pictures/geo2.png",
+                            "images/pictures/geo3.png",
+                            "images/pictures/geo4.png",
+                            "images/pictures/geo5.png"
                         ],
                         "screenshotsAspectRatio": "16:9",
                         "youtubeVideo": ""
@@ -72,15 +76,19 @@
                 {
                     "id": 2,
                     "categoryId": "category_web",
-                    "img": "images/pictures/movana-logo.png",
+                    "img": "images/pictures/intesistems.webp",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://movana.codemasterpartner.es/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                            {"href": "https://www.inteautomatizacion.com/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
                         ],
                         "screenshots": [
-                            "images/pictures/movana-screenshot.png"
+                            "images/pictures/inte1.png",
+                            "images/pictures/inte2.png",
+                            "images/pictures/inte3.png",
+                            "images/pictures/inte4.png",
+                            "images/pictures/inte5.png"
                         ],
                         "screenshotsAspectRatio": "16:9",
                         "youtubeVideo": ""
@@ -101,7 +109,7 @@
                 {
                     "id": 3,
                     "categoryId": "category_web",
-                    "img": "images/pictures/novalabs-logo.png",
+                    "img": "images/pictures/novalog.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {

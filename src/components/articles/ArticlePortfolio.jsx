@@ -7,6 +7,7 @@ import {useConstants} from "/src/hooks/constants.js"
 import {Tag, Tags} from "/src/components/generic/Tags.jsx"
 import ArticleItemPreviewMenu from "/src/components/articles/partials/ArticleItemPreviewMenu.jsx"
 import {useLanguage} from "/src/providers/LanguageProvider.jsx"
+import AvatarView from "/src/components/generic/AvatarView.jsx"
 
 /**
  * @param {ArticleDataWrapper} dataWrapper
@@ -85,6 +86,13 @@ function ArticlePortfolioItems({ dataWrapper, selectedItemCategoryId }) {
 function ArticlePortfolioItem({ itemWrapper }) {
     return (
         <div className={`article-portfolio-item`}>
+            <div className={`article-portfolio-item-avatar-wrapper`}>
+                <AvatarView src={itemWrapper.img}
+                            faIcon={itemWrapper.faIcon}
+                            style={itemWrapper.faIconStyle}
+                            alt={itemWrapper.imageAlt}
+                            className={`article-portfolio-item-avatar`}/>
+            </div>
             <ArticlePortfolioItemTitle itemWrapper={itemWrapper}/>
             <ArticlePortfolioItemBody itemWrapper={itemWrapper}/>
             <ArticlePortfolioItemFooter itemWrapper={itemWrapper}/>
