@@ -4,7 +4,6 @@ import Article from "/src/components/articles/base/Article.jsx"
 import Transitionable from "/src/components/capabilities/Transitionable.jsx"
 import {useViewport} from "/src/providers/ViewportProvider.jsx"
 import {useConstants} from "/src/hooks/constants.js"
-import AvatarView from "/src/components/generic/AvatarView.jsx"
 import {Tag, Tags} from "/src/components/generic/Tags.jsx"
 import ArticleItemPreviewMenu from "/src/components/articles/partials/ArticleItemPreviewMenu.jsx"
 import {useLanguage} from "/src/providers/LanguageProvider.jsx"
@@ -86,12 +85,6 @@ function ArticlePortfolioItems({ dataWrapper, selectedItemCategoryId }) {
 function ArticlePortfolioItem({ itemWrapper }) {
     return (
         <div className={`article-portfolio-item`}>
-            <AvatarView src={itemWrapper.img}
-                        faIcon={itemWrapper.faIcon}
-                        style={itemWrapper.faIconStyle}
-                        alt={itemWrapper.imageAlt}
-                        className={`article-portfolio-item-avatar`}/>
-
             <ArticlePortfolioItemTitle itemWrapper={itemWrapper}/>
             <ArticlePortfolioItemBody itemWrapper={itemWrapper}/>
             <ArticlePortfolioItemFooter itemWrapper={itemWrapper}/>

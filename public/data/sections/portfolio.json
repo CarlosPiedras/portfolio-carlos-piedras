@@ -87,43 +87,47 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Movana",
-                            "text": "Digital project focused on <b>personalized solutions</b> for user experiences. Built to help people connect and feel together more easily, featuring intuitive design and <b>emotional intelligence</b> in its UX approach.",
-                            "tags": ["UX Design", "Digital Solutions", "User Experience"]
+                            "title": "INTESISTEMAS",
+                            "text": "Professional corporate platform focused on <b>industrial automation</b> and electrical solutions. Specialized services and project portfolio for a company with over <b>30 years of experience</b> in Barcelona.",
+                            "tags": ["Industrial Automation", "Electrical Solutions", "Corporate Website"]
                         },
                         "es": {
-                            "title": "Movana",
-                            "text": "Proyecto digital centrado en <b>soluciones personalizadas</b> para experiencias de usuario. Construido para ayudar a las personas a conectar y sentir juntos más fácilmente, con diseño intuitivo e <b>inteligencia emocional</b> en su enfoque UX.",
-                            "tags": ["Diseño UX", "Soluciones Digitales", "Experiencia de Usuario"]
+                            "title": "INTESISTEMAS",
+                            "text": "Plataforma corporativa profesional con enfoque en <b>automatización industrial</b> y soluciones eléctricas. Servicios especializados y portafolio de proyectos de una empresa con más de <b>30 años de experiencia</b> en Barcelona.",
+                            "tags": ["Automatización Industrial", "Soluciones Eléctricas", "Sitio Corporativo"]
                         }
                     }
                 },
                 {
                     "id": 3,
                     "categoryId": "category_web",
-                    "img": "images/pictures/bpfeedback-logo.png",
+                    "img": "images/pictures/novalabs-logo.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://www.bpfeedback.com/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                            {"href": "https://novalabssolutions.es/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
                         ],
                         "screenshots": [
-                            "images/pictures/bpfeedback-screenshot.png"
+                            "images/pictures/nova1.png",
+                            "images/pictures/nova2.png",
+                            "images/pictures/nova3.png",
+                            "images/pictures/nova4.png",
+                            "images/pictures/nova5.png"
                         ],
                         "screenshotsAspectRatio": "16:9",
                         "youtubeVideo": ""
                     },
                     "locales": {
                         "en": {
-                            "title": "BP Feedback",
-                            "text": "Web tool for <b>feedback management</b> and analysis in professional environments. Specializing in <b>workplace climate consulting</b>, offering comprehensive solutions for organizational culture assessment and improvement.",
-                            "tags": ["Consulting", "Workplace", "Analytics"]
+                            "title": "NOVALABS",
+                            "text": "Digital project focused on <b>technological solutions</b> and web development. A modern and scalable site that strengthens brand identity and communicates services, experience, and innovative vision with a strong focus on <b>usability and performance</b>.",
+                            "tags": ["Web Development", "Digital Solutions", "Technology Consulting"]
                         },
                         "es": {
-                            "title": "BP Feedback",
-                            "text": "Herramienta web de <b>gestión y análisis de feedback</b> en entornos profesionales. Especializada en <b>consultoría de clima laboral</b>, ofreciendo soluciones completas para evaluación y mejora de la cultura organizacional.",
-                            "tags": ["Consultoría", "Clima Laboral", "Análisis"]
+                            "title": "NOVALABS",
+                            "text": "Proyecto digital orientado a <b>soluciones tecnológicas</b> y desarrollo web. Un sitio moderno y escalable que refuerza la identidad de marca y comunica servicios, experiencia y visión innovadora con un fuerte enfoque en <b>usabilidad y rendimiento</b>.",
+                            "tags": ["Desarrollo Web", "Soluciones Digitales", "Consultoría Tecnológica"]
                         }
                     }
                 }
