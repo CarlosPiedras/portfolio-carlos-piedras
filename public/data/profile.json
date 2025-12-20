@@ -17,7 +17,9 @@
                 "Full Stack Web Developer",
                 "Frontend Developer",
                 "UX/UI Designer",
-                "Digital Solutions Architect"
+                "Digital Solutions Architect",
+                "Network Administrator",
+                "IT Support"
             ]
         },
         "es": {
@@ -28,7 +30,9 @@
                 "Desarrollador Web Full Stack",
                 "Desarrollador Frontend",
                 "Diseñador UX/UI",
-                "Arquitecto de Soluciones Digitales"
+                "Arquitecto de Soluciones Digitales",
+                "Administrador de Redes",
+                "Soporte IT"
             ]
         }
     }
