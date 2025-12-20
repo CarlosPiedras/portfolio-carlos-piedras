@@ -68,14 +68,14 @@
                 },
                 {
                     "id": 2,
-                    "faIcon": "fa-brands fa-github",
+                    "faIcon": "fa-solid fa-phone",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@CarlosPiedras",
-                    "link": {"href": "https://github.com/CarlosPiedras", "tooltipString": "see_on_github"},
-                    "copyToClipboardButton": false,
+                    "label": "+34 608 692 492",
+                    "link": {"href": "tel:+34608692492", "tooltipString": "call_me"},
+                    "copyToClipboardButton": true,
                     "locales": {
-                        "en": {"title": "GitHub"},
-                        "es": {"title": "GitHub"}
+                        "en": {"title": "Phone"},
+                        "es": {"title": "Teléfono"}
                     }
                 }
             ]
