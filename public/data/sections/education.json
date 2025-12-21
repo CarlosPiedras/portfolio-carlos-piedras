@@ -39,7 +39,7 @@
                             "province": "",
                             "country": "Barcelona",
                             "institution": "Self-taught",
-                            "text": "Currently expanding knowledge in modern web development technologies and frameworks, with a special focus on [[React, Next.js]] and scalable architectures for enterprise applications.",
+                            "text": "I'm constantly learning and diving deeper into modern web development technologies and frameworks, especially [[React, Next.js]] and scalable architectures for enterprise applications.",
                             "list": [
                                 "Modern JavaScript frameworks",
                                 "Next.js application development",
@@ -54,7 +54,7 @@
                             "province": "",
                             "country": "Barcelona",
                             "institution": "Autodidacta",
-                            "text": "Actualmente ampliando conocimientos en tecnologías y frameworks modernos de desarrollo web, con especial enfoque en [[React, Next.js]] y arquitecturas escalables para aplicaciones empresariales.",
+                            "text": "Actualmente sigo aprendiendo y profundizando en tecnologías y frameworks modernos de desarrollo web, especialmente en [[React, Next.js]] y arquitecturas escalables para aplicaciones empresariales.",
                             "list": [
                                 "Frameworks modernos de JavaScript",
                                 "Desarrollo de aplicaciones con Next.js",
@@ -79,7 +79,7 @@
                             "province": "",
                             "country": "Barcelona",
                             "institution": "Jesuites Bellvitge",
-                            "text": "Obtained specialized training in network systems administration and infrastructure services, with emphasis on [[security, virtualization]] and enterprise server management.",
+                            "text": "During this degree I specialized in network systems administration and infrastructure services, with emphasis on [[security, virtualization]] and enterprise server management.",
                             "list": [
                                 "Active Directory and network services administration",
                                 "Virtualization solutions implementation",
@@ -94,7 +94,7 @@
                             "province": "",
                             "country": "Barcelona",
                             "institution": "Jesuites Bellvitge",
-                            "text": "Obtuve formación especializada en administración de sistemas en red y servicios de infraestructura, con énfasis en [[seguridad, virtualización]] y gestión de servidores empresariales.",
+                            "text": "Durante este grado me especialicé en administración de sistemas en red y servicios de infraestructura, con énfasis en [[seguridad, virtualización]] y gestión de servidores empresariales.",
                             "list": [
                                 "Administración de Active Directory y servicios de red",
                                 "Implementación de soluciones de virtualización",
@@ -119,7 +119,7 @@
                             "province": "",
                             "country": "Barcelona",
                             "institution": "Jesuites Bellvitge",
-                            "text": "Completed comprehensive training in full-stack web development, focused on creating [[dynamic and scalable applications]], with hands-on experience in modern frameworks and databases.",
+                            "text": "Here I trained in full-stack web development, focusing on creating [[dynamic and scalable applications]], gaining hands-on experience with modern frameworks and databases.",
                             "list": [
                                 "Frontend and backend development",
                                 "Relational database management",
@@ -134,7 +134,7 @@
                             "province": "",
                             "country": "Barcelona",
                             "institution": "Jesuites Bellvitge",
-                            "text": "Completé una formación completa en desarrollo web full-stack, enfocada en la creación de [[aplicaciones dinámicas y escalables]], con experiencia práctica en frameworks modernos y bases de datos.",
+                            "text": "Aquí me formé en desarrollo web full-stack, enfocándome en la creación de [[aplicaciones dinámicas y escalables]], ganando experiencia práctica con frameworks modernos y bases de datos.",
                             "list": [
                                 "Desarrollo frontend y backend",
                                 "Gestión de bases de datos relacionales",
@@ -159,7 +159,7 @@
                             "province": "",
                             "country": "Barcelona",
                             "institution": "Jesuites Bellvitge",
-                            "text": "Completed comprehensive training focused on [[computer systems administration]], local networks and equipment maintenance, where I acquired solid knowledge in IT infrastructure and technical problem solving.",
+                            "text": "During this degree I focused on [[computer systems administration]], local networks and equipment maintenance, which gave me a solid foundation in IT infrastructure and technical problem solving.",
                             "list": [
                                 "Operating systems installation and configuration",
                                 "Local network administration",
@@ -174,7 +174,7 @@
                             "province": "",
                             "country": "Barcelona",
                             "institution": "Jesuites Bellvitge",
-                            "text": "Completé una formación integral centrada en [[administración de sistemas informáticos]], redes locales y mantenimiento de equipos, donde adquirí conocimientos sólidos en infraestructura TI y resolución de problemas técnicos.",
+                            "text": "Durante este grado me enfoqué en [[administración de sistemas informáticos]], redes locales y mantenimiento de equipos, lo que me dio una buena base en infraestructura IT y resolución de problemas técnicos.",
                             "list": [
                                 "Instalación y configuración de sistemas operativos",
                                 "Administración de redes locales",
