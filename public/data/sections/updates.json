@@ -275,8 +275,7 @@
                     "date": {"year": 2025, "month": 6},
                     "preview": {
                         "links": [
-                            {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"},
-                            {"href": "https://github.com/ryanbalieiro/react-portfolio-template", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                            {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
                         ],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",

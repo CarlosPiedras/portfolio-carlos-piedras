@@ -1,5 +1,4 @@
 /**
- * @author Ryan Balieiro
  * @date 2025-05-10
  * @description This hook provides methods to interact with external APIs.
  */
@@ -98,15 +97,6 @@ const analytics = {
      * @returns {Promise<void>}
      */
     reportVisit: async() => {
-        await fetch("https://admin.ryanbalieiro.com/api/analytics/mock", {
-            method: 'POST',
-            headers: {'Content-Type': 'application/json'},
-            body: JSON.stringify({
-                params: {
-                    url: utils.url.getRootLocation(),
-                    template_id: "react-portfolio"
-                }
-            })
-        })
+        // Analytics disabled
     }
 }
