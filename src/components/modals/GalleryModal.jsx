@@ -2,7 +2,7 @@ import "./GalleryModal.scss"
 import React, {useEffect, useState} from 'react'
 import {ModalWrapper, ModalWrapperTitle, ModalWrapperBody} from "/src/components/modals/base/ModalWrapper"
 import { Swiper, SwiperSlide } from 'swiper/react'
-import {Pagination} from "swiper/modules"
+import {Pagination, Navigation} from "swiper/modules"
 import {useUtils} from "/src/hooks/utils.js"
 import {useViewport} from "/src/providers/ViewportProvider.jsx"
 import {useScheduler} from "/src/hooks/scheduler.js"
@@ -98,10 +98,12 @@ function GalleryModalSwiper({ className, images, type }) {
 
     return (
         <Swiper slidesPerView={"auto"}
+                centeredSlides={true}
                 direction={"horizontal"}
                 spaceBetween={15}
+                navigation={true}
                 pagination={{ clickable: true }}
-                modules={[Pagination]}
+                modules={[Pagination, Navigation]}
                 className={`gallery-swiper gallery-swiper-${type} ${className}`}>
             {images.map((image, key) => (
                 <SwiperSlide key={key}
