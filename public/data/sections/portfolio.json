@@ -76,7 +76,7 @@
                 {
                     "id": 2,
                     "categoryId": "category_web",
-                    "img": "images/pictures/intesistems.webp",
+                    "img": "images/pictures/faviconinte.webp",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
@@ -161,6 +161,39 @@
                             "title": "ACEDE",
                             "text": "Preparación completa <b>desde cero</b> de dos portátiles, junto con la <b>limpieza, optimización y puesta a punto</b> de otros dos equipos. Todo el entorno quedó <b>sincronizado con la nube</b>, garantizando un <b>flujo de trabajo estable, seguro</b> y totalmente integrado con la oficina.",
                             "tags": ["Administración de Redes", "Sincronización Cloud", "Optimización de Sistemas", "Infraestructura IT"]
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/faviconconstrucan.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://construcan.org/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [
+                            "images/pictures/constru1.png",
+                            "images/pictures/constru2.png",
+                            "images/pictures/constru3.png",
+                            "images/pictures/constru4.png",
+                            "images/pictures/constru5.png"
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Construcan",
+                            "text": "Corporate website for a Canarian company with <b>over 20 years of experience</b> in civil works, building construction, and investment management. Specialized in <b>public and private projects</b> with real cost and deadline control.",
+                            "tags": ["Civil Works", "Construction", "Corporate Website"]
+                        },
+                        "es": {
+                            "title": "Construcan",
+                            "text": "Sitio web corporativo para empresa canaria con <b>más de 20 años de experiencia</b> en obra civil, edificación y gestión de inversiones. Especializada en <b>obra pública y privada</b> con control real de costes y plazos.",
+                            "tags": ["Obra Civil", "Construcción", "Sitio Corporativo"]
                         }
                     }
                 }
