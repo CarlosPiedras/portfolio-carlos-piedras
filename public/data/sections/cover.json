@@ -154,6 +154,24 @@
                             "text": "Carlos configuró toda nuestra oficina {{desde cero}}: equipos, redes y migración a la nube. {{Servicio completo}} y eficiente."
                         }
                     }
+                },
+                {
+                    "id": 5,
+                    "label": "Alberto",
+                    "link": {"href": "", "tooltipString": ""},
+                    "img": "images/pictures/testimonial-person-male-4.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "CEO at [[CONSTRUCAN]]",
+                            "text": "{{Top-tier professional}}, with the ability to create a custom design tailored to the client's interests. Structuring, design, and {{high-quality development}}. Highly recommended."
+                        },
+                        "es": {
+                            "title": "CEO en [[CONSTRUCAN]]",
+                            "text": "{{Profesional de primer nivel}}, con capacidad de elaborar un diseño propio acorde a los intereses del cliente. Estructuración, diseño y {{desarrollo de gran calidad}}. Totalmente recomendable."
+                        }
+                    }
                 }
             ]
         },
